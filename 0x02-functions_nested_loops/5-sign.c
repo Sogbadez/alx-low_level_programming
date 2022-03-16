@@ -1,5 +1,3 @@
-able File  24 lines (24 sloc)  335 Bytes
-   
 #include "main.h"
 /**
 * print_sign - a function that prints the sign of a number
